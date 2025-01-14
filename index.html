@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Movie Hub</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <div class="container">
+        <!-- Sidebar -->
+        <aside class="sidebar">
+            <h2>Movie Hub</h2>
+            <nav>
+                <ul>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Movies</a></li>
+                    <li><a href="#">TV Shows</a></li>
+                    <li><a href="#">A-Z List</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </aside>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <header>
+                <h1>Latest Movies</h1>
+            </header>
+
+            <section id="movie-grid" class="movie-grid">
+                <!-- Movies will be dynamically loaded here -->
+            </section>
+
+            <section id="top-rated" class="top-rated">
+                <h2>Top Rated</h2>
+                <div class="carousel">
+                    <!-- Top-rated movies carousel will go here -->
+                </div>
+            </section>
+        </main>
+    </div>
+
+    <!-- Movie Details Modal -->
+    <div id="movie-modal" class="modal hidden">
+        <div class="modal-content">
+            <span class="close-modal">&times;</span>
+            <h2 id="modal-title">Movie Title</h2>
+            <img id="modal-poster" src="" alt="Movie Poster">
+            <p id="modal-genre">Genre: </p>
+            <p id="modal-year">Year: </p>
+            <p id="modal-description">Description: </p>
+            <a id="modal-download" href="#" class="download-btn">Download</a>
+        </div>
+    </div>
+</body>
+</html>
