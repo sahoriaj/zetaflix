@@ -1,0 +1,50 @@
+[
+    {
+        "title": "The Silent Force",
+        "genre": "Drama, Thriller",
+        "year": "2022",
+        "poster": "assets/silent-force.jpg",
+        "description": "A gripping tale of survival in the wild.",
+        "download": "https://example.com/silent-force-download"
+    },
+    {
+        "title": "Blade of Light",
+        "genre": "Action, Fantasy",
+        "year": "2023",
+        "poster": "assets/blade-of-light.jpg",
+        "description": "A warrior's journey to reclaim his honor.",
+        "download": "https://example.com/blade-of-light-download"
+    },
+    {
+        "title": "Dreamer of Secrets",
+        "genre": "Mystery, Sci-Fi",
+        "year": "2024",
+        "poster": "assets/dreamer-of-secrets.jpg",
+        "description": "A scientist unveils a hidden world of dreams.",
+        "download": "https://example.com/dreamer-of-secrets-download"
+    },
+    {
+        "title": "Edge of Heart",
+        "genre": "Romance, Drama",
+        "year": "2021",
+        "poster": "assets/edge-of-heart.jpg",
+        "description": "Two souls find each other against all odds.",
+        "download": "https://example.com/edge-of-heart-download"
+    },
+    {
+        "title": "The Stripped Boyfriend",
+        "genre": "Comedy, Romance",
+        "year": "2023",
+        "poster": "assets/stripped-boyfriend.jpg",
+        "description": "A hilarious take on relationships and misunderstandings.",
+        "download": "https://example.com/stripped-boyfriend-download"
+    },
+    {
+        "title": "The Silent Future",
+        "genre": "Sci-Fi, Drama",
+        "year": "2025",
+        "poster": "assets/silent-future.jpg",
+        "description": "A dystopian world where silence is the only hope.",
+        "download": "https://example.com/silent-future-download"
+    }
+]
