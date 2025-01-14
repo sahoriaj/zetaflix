@@ -1,13 +1,23 @@
 [
     {
-        "title": "Pushpa 2: The Rule",
-        "genre": "Action, Drama, Thriller",
-        "year": "2024",
-        "poster": "assets/pushpa2_stills4.jpg",
-        "description": "After the gripping events of Pushpa: The Rise, Pushpa Raj continues his reign in the red sandalwood smuggling world. With greater enemies and higher stakes, Pushpa must fight against odds to protect his people and legacy.",
-        "download": "https://example.com/silent-force-download"
-    },
-    {
+    "title": "Pushpa 2: The Rule",
+    "genre": "Action, Drama, Thriller",
+    "year": "2024",
+    "poster": "assets/pushpa-2.jpg",
+    "description": "After the gripping events of Pushpa: The Rise, Pushpa Raj continues his reign in the red sandalwood smuggling world. With greater enemies and higher stakes, Pushpa must fight against odds to protect his people and legacy.",
+    "rating": "IMDb 8.5/10",
+    "duration": "180 minutes",
+    "director": "Sukumar",
+    "cast": "Allu Arjun, Rashmika Mandanna, Fahadh Faasil",
+    "language": "Telugu (Available in Hindi, Tamil, Kannada, Malayalam, and English Dubbed)",
+    "age_rating": "PG-13",
+    "download": {
+        "720p": "https://example.com/download-pushpa2-720p",
+        "1080p": "https://example.com/download-pushpa2-1080p",
+        "4k": "https://example.com/download-pushpa2-4k"
+    }
+}
+
         "title": "Blade of Light",
         "genre": "Action, Fantasy",
         "year": "2023",
